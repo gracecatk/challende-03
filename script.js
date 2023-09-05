@@ -1,6 +1,6 @@
 // Assignment code here
 
-//confusion sjfjdf
+//sjhdfjhskfjsd
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
